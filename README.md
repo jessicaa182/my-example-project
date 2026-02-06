@@ -1,2 +1,2 @@
 # my-example-project
-Example project fro SDPD2 course 
+Example project for SDPD2 course 
